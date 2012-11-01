@@ -1,0 +1,10 @@
+C:\Simulais\Bin\Debug\AIS.Cells.dll
+C:\Simulais\Bin\Debug\AIS.Cells.pdb
+C:\Simulais\AIS.Cells\obj\Debug\ResolveAssemblyReference.cache
+C:\Simulais\AIS.Cells\obj\Debug\AIS.Cells.dll
+C:\Simulais\AIS.Cells\obj\Debug\AIS.Cells.pdb
+C:\Backup\Simulais_Backup_Latest\Simulais\Bin\Debug\AIS.Cells.dll
+C:\Backup\Simulais_Backup_Latest\Simulais\Bin\Debug\AIS.Cells.pdb
+C:\Backup\Simulais_Backup_Latest\Simulais\AIS.Cells\obj\Debug\AIS.Cells.csprojResolveAssemblyReference.cache
+C:\Backup\Simulais_Backup_Latest\Simulais\AIS.Cells\obj\Debug\AIS.Cells.dll
+C:\Backup\Simulais_Backup_Latest\Simulais\AIS.Cells\obj\Debug\AIS.Cells.pdb

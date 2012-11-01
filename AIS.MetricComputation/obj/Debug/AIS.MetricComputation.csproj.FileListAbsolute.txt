@@ -1,0 +1,10 @@
+C:\Simulais\Bin\Debug\MetricComputation.dll
+C:\Simulais\Bin\Debug\MetricComputation.pdb
+C:\Simulais\AIS.MetricComputation\obj\Debug\ResolveAssemblyReference.cache
+C:\Simulais\AIS.MetricComputation\obj\Debug\MetricComputation.dll
+C:\Simulais\AIS.MetricComputation\obj\Debug\MetricComputation.pdb
+C:\Backup\Simulais_Backup_Latest\Simulais\Bin\Debug\MetricComputation.dll
+C:\Backup\Simulais_Backup_Latest\Simulais\Bin\Debug\MetricComputation.pdb
+C:\Backup\Simulais_Backup_Latest\Simulais\AIS.MetricComputation\obj\Debug\AIS.MetricComputation.csprojResolveAssemblyReference.cache
+C:\Backup\Simulais_Backup_Latest\Simulais\AIS.MetricComputation\obj\Debug\MetricComputation.dll
+C:\Backup\Simulais_Backup_Latest\Simulais\AIS.MetricComputation\obj\Debug\MetricComputation.pdb

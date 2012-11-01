@@ -1,0 +1,10 @@
+C:\Simulais\Bin\Debug\AIS.Tissues.LymphNode.dll
+C:\Simulais\Bin\Debug\AIS.Tissues.LymphNode.pdb
+C:\Simulais\AIS.Tissues.LymphNode\obj\Debug\ResolveAssemblyReference.cache
+C:\Simulais\AIS.Tissues.LymphNode\obj\Debug\AIS.Tissues.LymphNode.dll
+C:\Simulais\AIS.Tissues.LymphNode\obj\Debug\AIS.Tissues.LymphNode.pdb
+C:\Backup\Simulais_Backup_Latest\Simulais\Bin\Debug\AIS.Tissues.LymphNode.dll
+C:\Backup\Simulais_Backup_Latest\Simulais\Bin\Debug\AIS.Tissues.LymphNode.pdb
+C:\Backup\Simulais_Backup_Latest\Simulais\AIS.Tissues.LymphNode\obj\Debug\AIS.Tissues.LymphNode.csprojResolveAssemblyReference.cache
+C:\Backup\Simulais_Backup_Latest\Simulais\AIS.Tissues.LymphNode\obj\Debug\AIS.Tissues.LymphNode.dll
+C:\Backup\Simulais_Backup_Latest\Simulais\AIS.Tissues.LymphNode\obj\Debug\AIS.Tissues.LymphNode.pdb

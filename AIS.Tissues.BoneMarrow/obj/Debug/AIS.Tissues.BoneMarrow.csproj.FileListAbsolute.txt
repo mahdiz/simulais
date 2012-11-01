@@ -1,0 +1,10 @@
+C:\Simulais\Bin\Debug\AIS.Tissues.BoneMarrow.dll
+C:\Simulais\Bin\Debug\AIS.Tissues.BoneMarrow.pdb
+C:\Simulais\AIS.Tissues.BoneMarrow\obj\Debug\ResolveAssemblyReference.cache
+C:\Simulais\AIS.Tissues.BoneMarrow\obj\Debug\AIS.Tissues.BoneMarrow.dll
+C:\Simulais\AIS.Tissues.BoneMarrow\obj\Debug\AIS.Tissues.BoneMarrow.pdb
+C:\Backup\Simulais_Backup_Latest\Simulais\Bin\Debug\AIS.Tissues.BoneMarrow.dll
+C:\Backup\Simulais_Backup_Latest\Simulais\Bin\Debug\AIS.Tissues.BoneMarrow.pdb
+C:\Backup\Simulais_Backup_Latest\Simulais\AIS.Tissues.BoneMarrow\obj\Debug\AIS.Tissues.BoneMarrow.csprojResolveAssemblyReference.cache
+C:\Backup\Simulais_Backup_Latest\Simulais\AIS.Tissues.BoneMarrow\obj\Debug\AIS.Tissues.BoneMarrow.dll
+C:\Backup\Simulais_Backup_Latest\Simulais\AIS.Tissues.BoneMarrow\obj\Debug\AIS.Tissues.BoneMarrow.pdb

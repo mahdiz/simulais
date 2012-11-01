@@ -1,0 +1,10 @@
+C:\Simulais\Bin\Debug\AIS.Tissues.dll
+C:\Simulais\Bin\Debug\AIS.Tissues.pdb
+C:\Simulais\AIS.Tissues\obj\Debug\ResolveAssemblyReference.cache
+C:\Simulais\AIS.Tissues\obj\Debug\AIS.Tissues.dll
+C:\Simulais\AIS.Tissues\obj\Debug\AIS.Tissues.pdb
+C:\Backup\Simulais_Backup_Latest\Simulais\Bin\Debug\AIS.Tissues.dll
+C:\Backup\Simulais_Backup_Latest\Simulais\Bin\Debug\AIS.Tissues.pdb
+C:\Backup\Simulais_Backup_Latest\Simulais\AIS.Tissues\obj\Debug\AIS.Tissues.csprojResolveAssemblyReference.cache
+C:\Backup\Simulais_Backup_Latest\Simulais\AIS.Tissues\obj\Debug\AIS.Tissues.dll
+C:\Backup\Simulais_Backup_Latest\Simulais\AIS.Tissues\obj\Debug\AIS.Tissues.pdb

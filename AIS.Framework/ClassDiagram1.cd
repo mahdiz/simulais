@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AIS.Framework.Address" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAEgAAAAAAAAAAAAIAAAAAAAAAAAjA=</HashCode>
+      <FileName>Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIS.Framework.AddressNotification" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAgAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIS.Framework.ChildAgent" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAABAAAAAAAAAAAAgAAEACAAAAAAAAEAA=</HashCode>
+      <FileName>ChildAgent.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AIS.Framework.BaseEvent" Collapsed="true">
+    <Position X="3" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAIAAAAAAAAAAQA=</HashCode>
+      <FileName>Event.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AIS.Framework.Event&lt;T&gt;" Collapsed="true">
+    <Position X="5.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAgAAAAAIAAAAAAAAAAQA=</HashCode>
+      <FileName>Event.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIS.Framework.Event" Collapsed="true">
+    <Position X="0.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAQA=</HashCode>
+      <FileName>Event.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIS.Framework.ReflectionEvent&lt;T&gt;" Collapsed="true">
+    <Position X="3" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAIAAAAAAAAAAAgAAAAAIAAAAAAAAAAQA=</HashCode>
+      <FileName>Event.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIS.Framework.Globals" Collapsed="true">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAABBCAQQAxCACQoAEVAAAIQAAAAAAAMEAEAAgQIAA=</HashCode>
+      <FileName>Globals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIS.Framework.LogEventArgs" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>LogEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIS.Framework.Mediator" Collapsed="true">
+    <Position X="11.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAQAAAEAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mediator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIS.Framework.MolecularPattern" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAECAAAAABAAAAAEAAACAAAAAAAIiA=</HashCode>
+      <FileName>MolecularPattern.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AIS.Framework.ParentAgent" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAEDQAAAEAAFAAIAoAAkCCAAAAAAAAEEA=</HashCode>
+      <FileName>ParentAgent.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AIS.Framework.Scheduler" Collapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAQAJAAAAABAAAAAAEAAAAAAAAACAAQAAgI=</HashCode>
+      <FileName>Scheduler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIS.Framework.SchedulerQueue" Collapsed="true">
+    <Position X="11.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAgAAAAAAAAAAAAAAAAQAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SchedulerQueue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIS.Framework.Signal" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Signal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIS.Framework.SecretiveSignal" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Signal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIS.Framework.Antigen&lt;T&gt;" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Signal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIS.Framework.SDAMP" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Signal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIS.Framework.Stimulation" Collapsed="true">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Signal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIS.Framework.Cytokine" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Signal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIS.Framework.Uid" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAIAAAAAQEgAIAAAAAAAAAAIAAAAAAAAAAAiA=</HashCode>
+      <FileName>Uid.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AIS.Framework.Properties.Settings" Collapsed="true">
+    <Position X="13.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABCAQAAgAAKAoAEBIQAAAAABAAAAEEAEAgAQIAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="AIS.Framework.IEvent" Collapsed="true">
+    <Position X="10" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAQA=</HashCode>
+      <FileName>Event.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="AIS.Framework.IAgent" Collapsed="true">
+    <Position X="1.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEACAAAAAAAAEAA=</HashCode>
+      <FileName>Framework.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="AIS.Framework.ITissue" Collapsed="true">
+    <Position X="0.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Framework.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="AIS.Framework.ICell" Collapsed="true">
+    <Position X="2.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Framework.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="AIS.Framework.NotifyReason" Collapsed="true">
+    <Position X="13.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Address.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AIS.Framework.CytokineType" Collapsed="true">
+    <Position X="10" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Framework.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AIS.Framework.CellType" Collapsed="true">
+    <Position X="15.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Framework.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AIS.Framework.TissueType" Collapsed="true">
+    <Position X="10" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAQBAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Framework.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AIS.Framework.CellMaturationLevel" Collapsed="true">
+    <Position X="11.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Framework.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AIS.Framework.CellState" Collapsed="true">
+    <Position X="13.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAYAAAAACAAAAAA=</HashCode>
+      <FileName>Framework.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AIS.Framework.TissueState" Collapsed="true">
+    <Position X="15.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAACAAAAAA=</HashCode>
+      <FileName>Framework.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AIS.Framework.LogLevel" Collapsed="true">
+    <Position X="11.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAgAAAAACA=</HashCode>
+      <FileName>Framework.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AIS.Framework.AffinityType" Collapsed="true">
+    <Position X="10" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MolecularPattern.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="AIS.Framework.Handler" Collapsed="true">
+    <Position X="11.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scheduler.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="AIS.Framework.Handler&lt;T&gt;" Collapsed="true">
+    <Position X="10" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scheduler.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
